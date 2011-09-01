@@ -1,5 +1,5 @@
 # ClojureScript on Cloud Foundry
-By combining <https://gist.github.com/1171737> with the instructions provided by the (Cloud Foundry Community)[http://support.cloudfoundry.com/entries/505133-deploying-a-node-js-app-with-npm-dependencies], writing a node.js + express webapp ready for deployment on Cloud Foundry with ClojureScript is pretty straight forward.
+By combining <https://gist.github.com/1171737> with the instructions provided by the [Cloud Foundry Community](http://support.cloudfoundry.com/entries/505133-deploying-a-node-js-app-with-npm-dependencies), writing a node.js + express webapp ready for deployment on Cloud Foundry with ClojureScript is pretty straight forward.
 
 # Compile, package and deploy
 Follow these steps:

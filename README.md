@@ -3,6 +3,7 @@ By combining <https://gist.github.com/1171737> with the instructions provided by
 
 # Compile, package and deploy
 Follow these steps:
+
 1. Package with `npm install`
 2. Compile with `cljsc hello.cljs "{:target :nodejs}" > hello.js`
 3. Deploy with `vmc push [appname]` (you'll have to select application type Node manually)
